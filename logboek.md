@@ -1,6 +1,10 @@
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+
+#
+
 # Logboek
 
-[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+**Last updated:** 18-05-2020 15:12
 
 - [Week 1](#week-1)
 - [Week 2](#week-2)
@@ -15,6 +19,7 @@
 - Eerste gesprek met het Ringo team
 - Discord met Nick
 - Debriefing gemaakt
+- UI schetsen gemaakt
 
 ## Dinsdag 19 mei 2020
 
