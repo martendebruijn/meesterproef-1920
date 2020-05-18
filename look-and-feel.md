@@ -91,15 +91,16 @@ I hadn't had the time to finish them. So some of the sketches are a little bit s
 
 </summary>
 
-![./img/sketch-dashoard.JPG](./img/sketch-dashoard.jpg)
+![./img/sketch-dashoard.JPG](./img/sketch-dashoard.JPG)
 
 ![./img/ringo-dashboard.jpg](./img/ringo-dashboard.jpg)</details>
 
-<details><summary>
+<details>
+<summary>
 
 **Search**</summary>
 
-![./img/sketch-search.JPG](./img/sketch-search.jpg)
+![./img/sketch-search.JPG](./img/sketch-search.JPG)
 
 ![./img/ringo-search-home.jpg](./img/ringo-search-home.jpg)
 
@@ -110,7 +111,7 @@ I hadn't had the time to finish them. So some of the sketches are a little bit s
 
 **Search results**</summary>
 
-![./img/sketch-results.JPG](./img/sketch-results.jpg)
+![./img/sketch-results.JPG](./img/sketch-results.JPG)
 
 ![./img/ringo-search-results.jpg](./img/ringo-search-results.jpg)
 
