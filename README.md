@@ -15,6 +15,7 @@ For five weeks I'm going to work on Ringo.pro for the final assignment of the mi
 ## Debriefing
 
 [Here you can find my debriefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/debriefing_1.md)
+[Here you can find my vision of the look and feel](https://github.com/martendebruijn/meesterproef-1920/blob/master/look-and-feel.md)
 
 ## Activity logs
 

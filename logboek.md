@@ -4,7 +4,7 @@
 
 # Logboek
 
-**Last updated:** 18-05-2020 15:12
+**Last updated:** 18-05-2020 20:09
 
 - [Week 1](#week-1)
 - [Week 2](#week-2)
@@ -19,7 +19,11 @@
 - Eerste gesprek met het Ringo team
 - Discord met Nick
 - Debriefing gemaakt
-- UI schetsen gemaakt
+- Project repo readme structuur gemaakt
+- Persoonlijke repo aangemaakt
+- Design research
+- Schetsen gemaakt
+- Schetsen uitgewerkt in Illustrator
 
 ## Dinsdag 19 mei 2020
 
