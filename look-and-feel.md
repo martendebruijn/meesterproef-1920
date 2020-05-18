@@ -85,23 +85,32 @@ In the enquiries workspace you got:
 
 I hadn't had the time to finish them. So some of the sketches are a little bit skewed and don't have the correct font-size.
 
-<details><summary>**Dashboard**</summary>
-![./img/sketch-dashoard.jpg](./img/sketch-dashoard.jpg)
+<details><summary>
+
+**Dashboard**
+
+</summary>
+
+![./img/sketch-dashoard.JPG](./img/sketch-dashoard.jpg)
 
 ![./img/ringo-dashboard.jpg](./img/ringo-dashboard.jpg)</details>
 
-<details><summary>**Search**</summary>
+<details><summary>
 
-![./img/sketch-search.jpg](./img/sketch-search.jpg)
+**Search**</summary>
+
+![./img/sketch-search.JPG](./img/sketch-search.jpg)
 
 ![./img/ringo-search-home.jpg](./img/ringo-search-home.jpg)
 
 ![./img/ringo-search-filter.jpg](./img/ringo-search-filter.jpg)
 
   </details>
-<details><summary>**Search results**</summary>
+<details><summary>
 
-![./img/sketch-results.jpg](./img/sketch-results.jpg)
+**Search results**</summary>
+
+![./img/sketch-results.JPG](./img/sketch-results.jpg)
 
 ![./img/ringo-search-results.jpg](./img/ringo-search-results.jpg)
 
