@@ -1,5 +1,7 @@
 # Logboek
 
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
@@ -35,3 +37,7 @@ Hemelvaart
 # Week 4
 
 # Week 5
+
+#
+
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)

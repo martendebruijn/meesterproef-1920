@@ -1,5 +1,7 @@
 # 18 mei briefing
 
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+
 Jo Sandow & Marcel Alexander Wiebeuga
 
 ringo.pro
@@ -40,3 +42,7 @@ Clean form. Like the one in the briefing. Joost also gave two examples:
 [https://www.verhalenvanger-hetscheepvaartmuseum.nl/story-upload](https://www.verhalenvanger-hetscheepvaartmuseum.nl/story-upload)
 
 The color scheme and ui has to be playful but also a bit sober. The platform will be used by people who look at it for 8 hours a day. So it must not be too distracting.
+
+#
+
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
