@@ -8,12 +8,20 @@ For five weeks I'm going to work on Ringo.pro for the final assignment of the mi
 
 ## Table of Contents
 
-- [Debriefing](#debrieving)
-- [Logboek](#logboek)
+- [Debriefing](#debriefing)
+- [Activity logs](#logboek)
 - [Meeting notes](#meeting-notes)
 
-## Debrieving
+## Debriefing
 
-## Logboek
+[Here you can find my debriefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/Debriefing.md)
+
+## Activity logs
+
+[Here you can find my activity logs](https://github.com/martendebruijn/meesterproef-1920/blob/master/logboek.md)
 
 ## Meeting notes
+
+Here I will save my notes that I make during the meetings with Jo and Marcel.
+
+- [18th May: Briefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/18-05-briefing.md)
