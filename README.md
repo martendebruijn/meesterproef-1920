@@ -53,4 +53,4 @@ On the 19th of May we had the debrief meeting. For this meeting I had made my de
 Here I will save my notes that I make during the meetings with Jo and Marcel.
 
 - [18th May: Briefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/meetings/18-05-briefing.md)
-- [18th May: Debrief](https://github.com/martendebruijn/meesterproef-1920/blob/master/meetings/19-05-debriefing.md)
+- [19th May: Debrief](https://github.com/martendebruijn/meesterproef-1920/blob/master/meetings/19-05-debriefing.md)
