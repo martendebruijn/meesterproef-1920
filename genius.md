@@ -75,9 +75,9 @@ async function search(query) {
   const jsonData = await response.json();
   const myObject = jsonData.response.hits;
   const result = myObject[0].result;
-  const title = result.title;
-  const cover = result.song_art_image_url;
-  const artist = result.primary_artist.name;
+  const title = result.title,
+    cover = result.song_art_image_url,
+    artist = result.primary_artist.name;
   return { title, cover, artist };
 }
 ```
