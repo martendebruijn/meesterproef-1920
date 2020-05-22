@@ -1,3 +1,5 @@
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+
 # Look and feel
 
 # How does [Ringo.pro](http://ringo.pro) has to look?
@@ -116,3 +118,7 @@ I hadn't had the time to finish them. So some of the sketches are a little bit s
 ![./img/ringo-search-results.jpg](./img/ringo-search-results.jpg)
 
   </details>
+
+#
+
+[Go back to the README](https://github.com/martendebruijn/meesterproef-1920)

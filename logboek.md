@@ -1,10 +1,8 @@
 [Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
 
-#
-
 # Logboek
 
-**Last updated:** 18-05-2020 20:09
+**Last updated:** 22-05-2020
 
 - [Week 1](#week-1)
 - [Week 2](#week-2)
@@ -27,15 +25,28 @@
 
 ## Dinsdag 19 mei 2020
 
+- Schetsen en het project besproken met Nick
+- Debriefing met team
+- Design research
+- Scrum bord aangemaakt op trello
+
 ## Woensdag 20 mei 2020
+
+- Design research
+- Trello overgezet naar GitHub Projects
 
 ## Donderdag 21 mei 2020
 
 Hemelvaart
 
+- Schetsen gemaakt
+- Genius API werkend gemaakt met een basic overview page
+
 ## Vrijdag 22 mei 2020
 
 Hemelvaart
+
+- Verder gewerkt aan het design o.b.v. de feedback van Jo
 
 # Week 2
 

@@ -1,6 +1,6 @@
-# 18 mei briefing
-
 [Go back to the README](https://github.com/martendebruijn/meesterproef-1920)
+
+# 18 mei briefing
 
 Jo Sandow & Marcel Alexander Wiebeuga
 

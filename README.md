@@ -8,14 +8,19 @@ For five weeks I'm going to work on Ringo.pro for the final assignment of the mi
 
 ## Table of Contents
 
-- [Debriefing](#debriefing)
+- [Week 1](#week-1)
+  - [Debriefing](#debriefing)
 - [Activity logs](#logboek)
 - [Meeting notes](#meeting-notes)
 
-## Debriefing
+## Week 1
 
-[Here you can find my debriefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/debriefing_1.md)
-[Here you can find my vision of the look and feel](https://github.com/martendebruijn/meesterproef-1920/blob/master/look-and-feel.md)
+### Debriefing
+
+On the 19th of May we had the debrief meeting. For this meeting I had made my debriefing and a couple of design thoughts.
+
+- [Here you can find my debriefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/debriefing_1.md)
+- [Here you can find my vision of the look and feel](https://github.com/martendebruijn/meesterproef-1920/blob/master/look-and-feel.md)
 
 ## Activity logs
 
@@ -26,3 +31,4 @@ For five weeks I'm going to work on Ringo.pro for the final assignment of the mi
 Here I will save my notes that I make during the meetings with Jo and Marcel.
 
 - [18th May: Briefing](https://github.com/martendebruijn/meesterproef-1920/blob/master/18-05-briefing.md)
+- [18th May: Debrief](https://github.com/martendebruijn/meesterproef-1920/blob/master/19-05-debriefing.md)
