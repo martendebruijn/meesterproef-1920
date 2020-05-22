@@ -1,5 +1,7 @@
 # Meesterproef @ hva 1920
 
+**Switched to the wiki**
+
 <!-- ![Screenshot van autoMATE](./img/automate-screenshot.png) -->
 
 ## 👾 Introduction

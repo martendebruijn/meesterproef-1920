@@ -12,7 +12,7 @@ With a client ID, a redirect URI, a scope and a state you can provide the user w
 `https://api.genius.com/oauth/authorize?client_id=${client_id}&redirect_uri=${redirect_uri}&scope=${scope}&state=${state}&response_type=code`;
 ```
 
-If the user accept he will be redirect to our redirect URI with a code and our state.
+If the user accept he will be redirected to our redirect URI with a code and our state.
 
 ```js
 `https://YOUR_REDIRECT_URI/?code=CODE&state=SOME_STATE_VALUE.`;
