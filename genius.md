@@ -28,6 +28,7 @@ const client_id = process.env.GENIUS_CLIENT_ID,
   scope = 'me',
   state = process.env.GENIUS_STATE;
 var access_token;
+
 const baseURL = 'https://api.genius.com/';
 async function getAccesToken(code) {
   const extendedURL = 'oauth/token',
