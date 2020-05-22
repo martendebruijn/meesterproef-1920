@@ -21,6 +21,13 @@ If the user accept he will be redirect to our redirect URI with a code and our s
 You can use this code to do a `POST` request to `https://api.genius.com/oauth/token` to get an access token back.
 
 ```js
+const fetch = require('node-fetch');
+const client_id = process.env.GENIUS_CLIENT_ID,
+  secret = process.env.GENIUS_SECRET,
+  redirect_uri = process.env.GENIUS_REDIRECT,
+  scope = 'me',
+  state = process.env.GENIUS_STATE;
+var access_token;
 const baseURL = 'https://api.genius.com/';
 async function getAccesToken(code) {
   const extendedURL = 'oauth/token',
