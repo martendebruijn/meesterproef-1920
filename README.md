@@ -3,9 +3,10 @@
 Meesterproef repo van Marten de Bruijn, team Ringo.
 
 Checkout a live demo of our project:
-[Ringo.pro live demo](https://ringo-pro.herokuapp)
 
-[Ringo.pro project repo](https://github.com/Ringo-Pro/Ringo.Pro)
+- [Ringo.pro live demo](https://ringo-pro.herokuapp)
+
+- [Ringo.pro project repo](https://github.com/Ringo-Pro/Ringo.Pro)
 
 ## Design Rationale
 
@@ -23,4 +24,5 @@ Checkout the product biografie:
 ## Reflectie
 
 Checkout the reflection (_in Dutch_):
-[Reflectie](https://github.com/martendebruijn/meesterproef-1920/wiki/reflectie)
+
+- [Reflectie](https://github.com/martendebruijn/meesterproef-1920/wiki/reflectie)
